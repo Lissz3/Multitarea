@@ -1,0 +1,15 @@
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.csproj.AssemblyReference.cache
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfoInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.AssemblyInfo.cs
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.csproj.CoreCompileInputs.cache
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\bin\Debug\net6.0\Ex2.exe
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\bin\Debug\net6.0\Ex2.deps.json
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\bin\Debug\net6.0\Ex2.runtimeconfig.json
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\bin\Debug\net6.0\Ex2.dll
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\bin\Debug\net6.0\Ex2.pdb
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.dll
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\refint\Ex2.dll
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.pdb
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\Ex2.genruntimeconfig.cache
+G:\Mi unidad\02.PROG SERV\Tema1\1Multitarea\Multitarea\Ex2\obj\Debug\net6.0\ref\Ex2.dll

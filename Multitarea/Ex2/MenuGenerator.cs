@@ -14,22 +14,29 @@ namespace Ex2
 		{
 			if (Controler(options, operations))
 			{
-				Array.ForEach(options, option => { Console.WriteLine(option); });
-				Console.WriteLine(options.Length + 1 + ".-Exit.");
-				Console.WriteLine("Select option:");
 				int menuOption;
-				while (!int.TryParse(Console.ReadLine(), out menuOption) || menuOption < 0 || menuOption > options.Length + 1)
+				do
 				{
-					Console.WriteLine("Option not valid. Not a number or valid one. Please insert a new one:");
-				}
-				if (menuOption != options.Length + 1)
-				{
-					operations[menuOption - 1]();
-				}
-				else
-				{
-					Console.WriteLine("Hasta otra.");
-				}
+					for (int i = 0; i < options.Length; i++)
+					{
+						Console.WriteLine((i + 1) + ".-" + options[i]);
+					}
+					Console.WriteLine(options.Length + 1 + ".-Exit");
+					Console.WriteLine("Select option:");
+					while (!int.TryParse(Console.ReadLine(), out menuOption) || menuOption <= 0 || menuOption > options.Length + 1)
+					{
+						Console.WriteLine("Option not valid. Not a number or valid one. Please insert a new one:");
+					}
+					if (menuOption != options.Length + 1)
+					{
+						operations[menuOption - 1]();
+					}
+					else
+					{
+						Console.WriteLine("Cya!");
+					}
+
+				} while (menuOption != options.Length + 1);
 
 			}
 
@@ -42,7 +49,7 @@ namespace Ex2
 				return false;
 			}
 
-			if (options.Length == null || operations.Length == null)
+			if (options == null || operations == null)
 			{
 				return false;
 			}
