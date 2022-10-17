@@ -44,17 +44,17 @@ namespace Ex2
 
 		public bool Controler(string[] options, MyDelegate[] operations)
 		{
-			if (options.Length != operations.Length)
-			{
-				return false;
-			}
-
 			if (options == null || operations == null)
 			{
 				return false;
 			}
 
 			if (options.Length == 0 || operations.Length == 0)
+			{
+				return false;
+			}
+
+			if (options.Length != operations.Length)
 			{
 				return false;
 			}
